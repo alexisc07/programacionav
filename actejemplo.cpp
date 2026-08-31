@@ -6,10 +6,10 @@ int main() {
 
     cout << "Ingrese el salario mensual: ";
     cin >> salario;
-    if(salario <= 8080) {
-        s_retenido = salario * 0.03;
-        s_recibido = salario - s_retenido;
-    }
+        if(salario>8000 && salario <= 10000) {
+            s_retenido = salario * 0.03;
+            s_recibido = salario - s_retenido;
+        }
     else if(salario>10000 && salario <= 18000) {
         s_retenido = salario * 0.08;
         s_recibido = salario - s_retenido;

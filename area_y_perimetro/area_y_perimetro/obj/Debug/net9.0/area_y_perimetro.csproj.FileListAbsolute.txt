@@ -1,0 +1,15 @@
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\bin\Debug\net9.0\area_y_perimetro.exe
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\bin\Debug\net9.0\area_y_perimetro.deps.json
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\bin\Debug\net9.0\area_y_perimetro.runtimeconfig.json
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\bin\Debug\net9.0\area_y_perimetro.dll
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\bin\Debug\net9.0\area_y_perimetro.pdb
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\area_y_perimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\area_y_perimetro.AssemblyInfoInputs.cache
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\area_y_perimetro.AssemblyInfo.cs
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\area_y_perimetro.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\area_y_perimetro.sourcelink.json
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\area_y_perimetro.dll
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\refint\area_y_perimetro.dll
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\area_y_perimetro.pdb
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\area_y_perimetro.genruntimeconfig.cache
+C:\Users\LENOVO\programacionav\area_y_perimetro\area_y_perimetro\obj\Debug\net9.0\ref\area_y_perimetro.dll

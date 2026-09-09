@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\LENOVO\\programacionav\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj": {}
+    "C:\\Users\\LENOVO\\programacionav\\id_alumno\\id_alumno\\id_alumno.csproj": {}
   },
   "projects": {
-    "c:\\Users\\LENOVO\\programacionav\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj": {
+    "C:\\Users\\LENOVO\\programacionav\\id_alumno\\id_alumno\\id_alumno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\LENOVO\\programacionav\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj",
-        "projectName": "area_y_perimetro",
-        "projectPath": "c:\\Users\\LENOVO\\programacionav\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\programacionav\\id_alumno\\id_alumno\\id_alumno.csproj",
+        "projectName": "id_alumno",
+        "projectPath": "C:\\Users\\LENOVO\\programacionav\\id_alumno\\id_alumno\\id_alumno.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\LENOVO\\programacionav\\area_y_perimetro\\area_y_perimetro\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\programacionav\\id_alumno\\id_alumno\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

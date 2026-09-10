@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\programacionav\\C#\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj": {}
+    "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_c\\ejercicio_c.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\programacionav\\C#\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj": {
+    "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_c\\ejercicio_c.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\programacionav\\C#\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj",
-        "projectName": "area_y_perimetro",
-        "projectPath": "C:\\Users\\LENOVO\\programacionav\\C#\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_c\\ejercicio_c.csproj",
+        "projectName": "ejercicio_c",
+        "projectPath": "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_c\\ejercicio_c.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\programacionav\\C#\\area_y_perimetro\\area_y_perimetro\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_c\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

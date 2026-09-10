@@ -1,0 +1,15 @@
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\bin\Debug\net9.0\ejercicio_b.exe
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\bin\Debug\net9.0\ejercicio_b.deps.json
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\bin\Debug\net9.0\ejercicio_b.runtimeconfig.json
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\bin\Debug\net9.0\ejercicio_b.dll
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\bin\Debug\net9.0\ejercicio_b.pdb
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\ejercicio_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\ejercicio_b.AssemblyInfoInputs.cache
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\ejercicio_b.AssemblyInfo.cs
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\ejercicio_b.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\ejercicio_b.sourcelink.json
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\ejercicio_b.dll
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\refint\ejercicio_b.dll
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\ejercicio_b.pdb
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\ejercicio_b.genruntimeconfig.cache
+C:\Users\LENOVO\programacionav\C#_BB\ejercicio_b\obj\Debug\net9.0\ref\ejercicio_b.dll

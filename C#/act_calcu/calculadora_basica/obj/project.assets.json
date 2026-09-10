@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\programacionav\\C#\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj",
-      "projectName": "area_y_perimetro",
-      "projectPath": "C:\\Users\\LENOVO\\programacionav\\C#\\area_y_perimetro\\area_y_perimetro\\area_y_perimetro.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\programacionav\\C#\\act_calcu\\calculadora_basica\\calculadora_basica.csproj",
+      "projectName": "calculadora_basica",
+      "projectPath": "C:\\Users\\LENOVO\\programacionav\\C#\\act_calcu\\calculadora_basica\\calculadora_basica.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\programacionav\\C#\\area_y_perimetro\\area_y_perimetro\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\programacionav\\C#\\act_calcu\\calculadora_basica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

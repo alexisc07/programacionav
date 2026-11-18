@@ -1,0 +1,15 @@
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\bin\Debug\net9.0\ContarCifras.exe
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\bin\Debug\net9.0\ContarCifras.deps.json
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\bin\Debug\net9.0\ContarCifras.runtimeconfig.json
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\bin\Debug\net9.0\ContarCifras.dll
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\bin\Debug\net9.0\ContarCifras.pdb
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\ContarCifras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\ContarCifras.AssemblyInfoInputs.cache
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\ContarCifras.AssemblyInfo.cs
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\ContarCifras.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\ContarCifras.sourcelink.json
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\ContarCifras.dll
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\refint\ContarCifras.dll
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\ContarCifras.pdb
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\ContarCifras.genruntimeconfig.cache
+C:\Users\LENOVO\programacionav\C#_BB\ContarCifras\obj\Debug\net9.0\ref\ContarCifras.dll

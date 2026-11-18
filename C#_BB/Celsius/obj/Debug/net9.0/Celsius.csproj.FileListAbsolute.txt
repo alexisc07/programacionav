@@ -1,0 +1,15 @@
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\bin\Debug\net9.0\Celsius.exe
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\bin\Debug\net9.0\Celsius.deps.json
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\bin\Debug\net9.0\Celsius.runtimeconfig.json
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\bin\Debug\net9.0\Celsius.dll
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\bin\Debug\net9.0\Celsius.pdb
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\Celsius.AssemblyInfoInputs.cache
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\Celsius.AssemblyInfo.cs
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\Celsius.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\Celsius.sourcelink.json
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\Celsius.dll
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\refint\Celsius.dll
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\Celsius.pdb
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\Celsius.genruntimeconfig.cache
+C:\Users\LENOVO\programacionav\C#_BB\Celsius\obj\Debug\net9.0\ref\Celsius.dll

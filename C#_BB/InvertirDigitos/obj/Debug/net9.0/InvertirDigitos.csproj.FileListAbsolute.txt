@@ -1,0 +1,15 @@
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\bin\Debug\net9.0\InvertirDigitos.exe
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\bin\Debug\net9.0\InvertirDigitos.deps.json
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\bin\Debug\net9.0\InvertirDigitos.runtimeconfig.json
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\bin\Debug\net9.0\InvertirDigitos.dll
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\bin\Debug\net9.0\InvertirDigitos.pdb
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\InvertirDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\InvertirDigitos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\InvertirDigitos.AssemblyInfo.cs
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\InvertirDigitos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\InvertirDigitos.sourcelink.json
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\InvertirDigitos.dll
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\refint\InvertirDigitos.dll
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\InvertirDigitos.pdb
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\InvertirDigitos.genruntimeconfig.cache
+C:\Users\LENOVO\programacionav\C#_BB\InvertirDigitos\obj\Debug\net9.0\ref\InvertirDigitos.dll

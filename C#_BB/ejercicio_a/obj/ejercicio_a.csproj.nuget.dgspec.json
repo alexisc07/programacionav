@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\ejercicio_a.csproj": {}
+    "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\ejercicio_a.csproj": {}
   },
   "projects": {
-    "c:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\ejercicio_a.csproj": {
+    "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\ejercicio_a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\ejercicio_a.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\ejercicio_a.csproj",
         "projectName": "ejercicio_a",
-        "projectPath": "c:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\ejercicio_a.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\ejercicio_a.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\programacionav\\C#_BB\\ejercicio_a\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
